@@ -1,0 +1,12 @@
+.cards{
+    width: 100%;
+}
+
+.cards-all{
+    width: 70%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: auto;
+
+}
